@@ -1,1 +1,1 @@
-# bookbot
+# bookbot is my first project using git from my local computer
